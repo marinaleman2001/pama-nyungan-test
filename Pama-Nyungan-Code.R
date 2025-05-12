@@ -1,3 +1,9 @@
+#Load libraries
+library(ggplot2)
+library(tidyr)
+library(tidyverse)
+library(dplyr)
+
 #Read info for feature 19A
 
 data = read_tsv("19A.txt", skip=5)
