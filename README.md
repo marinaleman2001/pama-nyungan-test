@@ -9,3 +9,4 @@ v2: Added code for map data.
 v3: Edited code to load libraries.
 v4: Added libraries for map data. 
 v5: Added map for WALS 19A data for Pama-Nyungan.
+v6: Added dataset as .csv file.
