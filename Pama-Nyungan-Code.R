@@ -3,6 +3,8 @@ library(ggplot2)
 library(tidyr)
 library(tidyverse)
 library(dplyr)
+library(maps)
+library(mapdata)
 
 #Read info for feature 19A
 
